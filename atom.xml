@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>萤火森林</title>
+  
+  <subtitle>点点微光，照亮前方</subtitle>
+  <link href="https://ixyyds.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ixyyds.github.io/"/>
+  <updated>2022-01-06T13:38:04.793Z</updated>
+  <id>https://ixyyds.github.io/</id>
+  
+  <author>
+    <name>萤火</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ixyyds.github.io/2022/01/06/hello-world/"/>
+    <id>https://ixyyds.github.io/2022/01/06/hello-world/</id>
+    <published>2022-01-06T13:38:04.793Z</published>
+    <updated>2022-01-06T13:38:04.793Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
