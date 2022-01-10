@@ -6,7 +6,7 @@
   <link href="https://ixyyds.github.io/atom.xml" rel="self"/>
   
   <link href="https://ixyyds.github.io/"/>
-  <updated>2022-01-06T13:38:04.793Z</updated>
+  <updated>2022-01-10T15:02:43.757Z</updated>
   <id>https://ixyyds.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文档</title>
+    <link href="https://ixyyds.github.io/2022/01/10/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    <id>https://ixyyds.github.io/2022/01/10/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</id>
+    <published>2022-01-10T14:22:23.000Z</published>
+    <updated>2022-01-10T15:02:43.757Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到&lt;a href=&quot;https://ixyyds.github.io/&quot;&gt;萤火森林&lt;/a&gt;! 这是一篇测试文档.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
